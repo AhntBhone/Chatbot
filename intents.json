@@ -1,0 +1,23 @@
+{"intents":  [
+  {"tag":  "greetings",
+  "patterns": ["hello", "hey", "hi", "good day", "what's up", "Greetings"],
+  "responses": ["Hello!", "Hey!", "What can I do for you?", "Greetings to you good sir.", "How may I be of assistance?"]
+  },
+  {"tag":  "goodbye",
+  "patterns": ["cya", "See you later", "good bye", "I am going now", "I am leaving", "bye", "Have a good day"],
+  "responses": ["Good Bye!", "See you", "Come again!", "Tell your friends how cool I am!", "Good day!", "Cya, boss"]
+  },
+  {"tag":  "name",
+  "patterns": ["What is your name", "What should I call you", "whats ur name", "who are you", "tell me your name"],
+  "responses": ["My name is Albot", "You can call me Albot", "I am Albot", "I'm Albot! The Chat bot made by Albert Chan!"]
+  },
+  {"tag": "roar",
+  "patterns": ["what is chinthe roar", "about chinthe roar", "chinthe roar"],
+  "responses": ["Chinthe Roar is a multimedia club that creates media to promote other clubs and their events at ISY."]
+  },
+  {"tags": "socials",
+  "patterns": ["socials", "What are your socials", "Do you have facebook", "where can i find you", "Where can I contact you"],
+  "responses": ["@isy_media22 on any social media!!!", "You can find us @isy_media22!"]
+  }
+]}
+
